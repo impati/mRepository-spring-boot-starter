@@ -27,7 +27,7 @@ dependencies {
     annotationProcessor "org.springframework.boot:spring-boot-autoconfigure-processor"
 
     api 'com.github.impati:mRepository:1.0.5'
-    implementation 'com.github.impati:mRepository-spring-boot-autoconfigure:1.0.5'
+    implementation 'com.github.impati:mRepository-spring-boot-autoconfigure:1.0.6'
 }
 
 publishing {
